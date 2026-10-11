@@ -25,6 +25,7 @@ It was built for the BR Clubs admin portal and member app (NestJS backend, Next.
 - [Repository layout](#repository-layout)
 - [Updating and contributing](#updating-and-contributing)
 - [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 ---
 
@@ -249,3 +250,7 @@ Without push access, fork the repo and open a pull request.
 | Panel looks like a phone layout in the agent's browser pane | The pane is too narrow. Use `capture_screens.js` instead (1440×900). |
 | Claude in Chrome "not connected" | Sign the extension in to the **same Claude account** as your agent, in the Chrome profile where it is installed. |
 | No PRD found | Connect your product platform, attach the PRD, or tell the agent to work from the code and stories. |
+
+## License
+
+[MIT](LICENSE) © 2026 Joseph Marzouk
