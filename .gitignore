@@ -1,0 +1,10 @@
+# Local settings (panel URL, branch, Figma file) — copy config.example.json
+config.json
+
+# Dependencies — installed by `npm install` in scripts/
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log

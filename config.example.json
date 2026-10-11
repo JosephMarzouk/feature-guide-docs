@@ -1,0 +1,9 @@
+{
+  "panelUrl": "https://staging.your-panel.example",
+  "dataBranch": "your_branch_id",
+  "localDevUrl": "http://localhost:3000",
+  "figmaFileKey": "YourFigmaFileKey",
+  "figmaFileName": "Your App Design",
+  "outputDir": "docs-output",
+  "subagentModel": "sonnet"
+}
